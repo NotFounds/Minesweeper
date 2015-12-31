@@ -16,4 +16,4 @@ Download all the files and build  by Visual Studio 2015.
 ![SampleImage](https://github.com/NotFounds/Minesweeper/blob/master/Minesweeper/sample/image.png)
 
 ## License
-License is free.
+License free.
